@@ -1,0 +1,4 @@
+# Requisitos para el proyecto de Teleoperation
+pyserial
+pylsl>=1.16.2
+tk
